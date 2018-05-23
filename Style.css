@@ -1,0 +1,21 @@
+body{
+	background: -webkit-linear-gradient(white, DeepSkyBlue);
+	background: -moz-linear-gradient(white, DeepSkyBlue);
+}
+header{
+	text-align: center;
+	font-size:150%;
+	padding-top:1%;
+	text-shadow: 0px 0px 20px DeepSkyBlue;
+}
+nav{
+	text-align: center;
+	-webkit-align-content: center;
+	-moz-align-content: center;
+}
+#img1{
+	opacity: 0.8;
+}
+#img2{
+	opacity:0.7;
+}
